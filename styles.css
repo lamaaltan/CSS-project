@@ -1,0 +1,80 @@
+nav{
+    display:inline ;
+    
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #f7bbbb;
+    margin: 0;
+    padding: 0;
+}
+
+
+.oprahimage{
+border: 25px;
+border-color: #fb8383;
+border-style: solid;
+border-radius: 250px;
+width:max-content;
+
+
+}
+.centered-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+header h1 {
+    color: #333; 
+}
+
+
+h2 {
+    color: #4285f4; 
+}
+
+p {
+    color: #555; 
+}
+
+
+nav a {
+    color: #007bff; 
+}
+
+
+.resume-table th {
+    color: #333; 
+}
+
+
+.resume-table td {
+    color: #555; 
+}
+
+
+footer p {
+    color: #777; 
+}
